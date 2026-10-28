@@ -1,0 +1,582 @@
+{
+  "data_utc": "2026-10-24T16:38:01.578860+00:00",
+  "pacote": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex",
+  "fotografias": 37,
+  "arquivos": [
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.51 (1).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.51 (1).jpeg",
+      "bytes": 123966,
+      "sha256_origem": "8a03ea61010f1eaa26e0dd063b101dc910b6a4e089e1ff05f8386d54af081eec",
+      "sha256_destino": "8a03ea61010f1eaa26e0dd063b101dc910b6a4e089e1ff05f8386d54af081eec",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.51.jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.51.jpeg",
+      "bytes": 75741,
+      "sha256_origem": "03dbdad476796f7c2b0e6a939d7c13d658ebf1c16fa02da69b0315584184edcd",
+      "sha256_destino": "03dbdad476796f7c2b0e6a939d7c13d658ebf1c16fa02da69b0315584184edcd",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.52 (1).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.52 (1).jpeg",
+      "bytes": 85819,
+      "sha256_origem": "c598d91cf811efc274532226e58c57a309d5f13cb7cb402b84f552cc4d5d61db",
+      "sha256_destino": "c598d91cf811efc274532226e58c57a309d5f13cb7cb402b84f552cc4d5d61db",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.52 (2).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.52 (2).jpeg",
+      "bytes": 84678,
+      "sha256_origem": "e0ef41a4ed34c4344b7b56db195b000070d7af9192dc77bd2fcf28df83ca9256",
+      "sha256_destino": "e0ef41a4ed34c4344b7b56db195b000070d7af9192dc77bd2fcf28df83ca9256",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.52 (3).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.52 (3).jpeg",
+      "bytes": 83477,
+      "sha256_origem": "0a51acac3c323a17effd7ca0c17646dd0b22559b8c14afd7bb57510d2eb65069",
+      "sha256_destino": "0a51acac3c323a17effd7ca0c17646dd0b22559b8c14afd7bb57510d2eb65069",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.52.jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.52.jpeg",
+      "bytes": 123312,
+      "sha256_origem": "749f88cf9fb4008c69c231c6e96485af6fdb03ad1f3de5b079e0ea28983e1e24",
+      "sha256_destino": "749f88cf9fb4008c69c231c6e96485af6fdb03ad1f3de5b079e0ea28983e1e24",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.53 (1).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.53 (1).jpeg",
+      "bytes": 78721,
+      "sha256_origem": "b04cc2e4916d4f33880b0a322897068c048aaa6f39c1df22bdf3f62d7e192bb3",
+      "sha256_destino": "b04cc2e4916d4f33880b0a322897068c048aaa6f39c1df22bdf3f62d7e192bb3",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.53 (2).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.53 (2).jpeg",
+      "bytes": 83459,
+      "sha256_origem": "18559b0f36617c7317a17ece2315a82899d9b038390fe5f6ccb229900f36e5fa",
+      "sha256_destino": "18559b0f36617c7317a17ece2315a82899d9b038390fe5f6ccb229900f36e5fa",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.53 (3).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.53 (3).jpeg",
+      "bytes": 129037,
+      "sha256_origem": "0f3e57f521790b2c7aeba9971f8d9cfa0cd7561a9000eb847e13d0f313fbd0ce",
+      "sha256_destino": "0f3e57f521790b2c7aeba9971f8d9cfa0cd7561a9000eb847e13d0f313fbd0ce",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.53.jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.53.jpeg",
+      "bytes": 107168,
+      "sha256_origem": "c398703fd66265b6cfa9a9a1c2228df308c00bc35bbe616cf2d03bddcd2e2b09",
+      "sha256_destino": "c398703fd66265b6cfa9a9a1c2228df308c00bc35bbe616cf2d03bddcd2e2b09",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.58 (1).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.58 (1).jpeg",
+      "bytes": 243012,
+      "sha256_origem": "5f169cf09d2a9b142067b9fe55cf7075fbc59b6e1bdd44655a8e6fa1761640c2",
+      "sha256_destino": "5f169cf09d2a9b142067b9fe55cf7075fbc59b6e1bdd44655a8e6fa1761640c2",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.58 (2).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.58 (2).jpeg",
+      "bytes": 245778,
+      "sha256_origem": "f17946500e6e477003eecc9b3d8381cce660fcec371e643e666ec5f84ffa200b",
+      "sha256_destino": "f17946500e6e477003eecc9b3d8381cce660fcec371e643e666ec5f84ffa200b",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.58.jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.58.jpeg",
+      "bytes": 93341,
+      "sha256_origem": "cbf06f7d06433d36457fcf09f1c3be1f7c26203640a324f7c8ddc1c4ff169343",
+      "sha256_destino": "cbf06f7d06433d36457fcf09f1c3be1f7c26203640a324f7c8ddc1c4ff169343",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (1).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (1).jpeg",
+      "bytes": 85377,
+      "sha256_origem": "c0be25aa7821db0e5dc6f1a52236825b769dbf3bd8f25d0a61201ab1cbb409ac",
+      "sha256_destino": "c0be25aa7821db0e5dc6f1a52236825b769dbf3bd8f25d0a61201ab1cbb409ac",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (10).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (10).jpeg",
+      "bytes": 108201,
+      "sha256_origem": "b3fef297ad8af603918394944c066ea3cd6c018dce7c9135394e3fd8644bd876",
+      "sha256_destino": "b3fef297ad8af603918394944c066ea3cd6c018dce7c9135394e3fd8644bd876",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (11).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (11).jpeg",
+      "bytes": 111715,
+      "sha256_origem": "780421ff7b024ac85c7fa0c8d141eea9149c9c039129a637b5e0faf7897d7b7b",
+      "sha256_destino": "780421ff7b024ac85c7fa0c8d141eea9149c9c039129a637b5e0faf7897d7b7b",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (12).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (12).jpeg",
+      "bytes": 98942,
+      "sha256_origem": "382d385978dbd82e32214d4ada6ae6c38a2dad445ad24f2dac19571c40ad990a",
+      "sha256_destino": "382d385978dbd82e32214d4ada6ae6c38a2dad445ad24f2dac19571c40ad990a",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (13).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (13).jpeg",
+      "bytes": 90229,
+      "sha256_origem": "b493721ab331071bdbbe0f71dc0c284f5d9da9b0db7afd2efa0d737db608395f",
+      "sha256_destino": "b493721ab331071bdbbe0f71dc0c284f5d9da9b0db7afd2efa0d737db608395f",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (14).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (14).jpeg",
+      "bytes": 108108,
+      "sha256_origem": "b8c3c68c7eb49ac2c0a6be86dfd99f97d080849964e8114e9c333258e197ea46",
+      "sha256_destino": "b8c3c68c7eb49ac2c0a6be86dfd99f97d080849964e8114e9c333258e197ea46",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (15).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (15).jpeg",
+      "bytes": 92960,
+      "sha256_origem": "4641a080ae8a928e561d7249453815a49414d0fd60a495fbca59acd9506b1a7f",
+      "sha256_destino": "4641a080ae8a928e561d7249453815a49414d0fd60a495fbca59acd9506b1a7f",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (16).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (16).jpeg",
+      "bytes": 93192,
+      "sha256_origem": "fac3aa90601dd47e145ad807771fe8cd2bf11f8af90784bc49bc0ac658553c7a",
+      "sha256_destino": "fac3aa90601dd47e145ad807771fe8cd2bf11f8af90784bc49bc0ac658553c7a",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (17).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (17).jpeg",
+      "bytes": 95930,
+      "sha256_origem": "c0931947fada4dfd12fc2500f70d3b7e7b4102ec07bec0a5a4406c85999eac69",
+      "sha256_destino": "c0931947fada4dfd12fc2500f70d3b7e7b4102ec07bec0a5a4406c85999eac69",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (18).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (18).jpeg",
+      "bytes": 86097,
+      "sha256_origem": "713042e89d41d369902b504868ddabf05a6c00a3e09fc8ac6de33427e59d9580",
+      "sha256_destino": "713042e89d41d369902b504868ddabf05a6c00a3e09fc8ac6de33427e59d9580",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (19).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (19).jpeg",
+      "bytes": 74558,
+      "sha256_origem": "9f742c41c7c1271449494cdfcd541f8e49cf97073a9451eee744101d8dd59e32",
+      "sha256_destino": "9f742c41c7c1271449494cdfcd541f8e49cf97073a9451eee744101d8dd59e32",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (2).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (2).jpeg",
+      "bytes": 97456,
+      "sha256_origem": "3bfd716ac45407bca9033e5a48354414406ec4e72312f56bc9de34743a7024bf",
+      "sha256_destino": "3bfd716ac45407bca9033e5a48354414406ec4e72312f56bc9de34743a7024bf",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (20).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (20).jpeg",
+      "bytes": 88365,
+      "sha256_origem": "c0528d286fed2323b55cbaad95c1275f7cdd77b3284ab76d74a8c2e12b193be1",
+      "sha256_destino": "c0528d286fed2323b55cbaad95c1275f7cdd77b3284ab76d74a8c2e12b193be1",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (3).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (3).jpeg",
+      "bytes": 45682,
+      "sha256_origem": "e7f812aa11912e212e073266f4bed2f37ee57ba83b3bd834bc506c4cba3a81eb",
+      "sha256_destino": "e7f812aa11912e212e073266f4bed2f37ee57ba83b3bd834bc506c4cba3a81eb",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (4).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (4).jpeg",
+      "bytes": 265318,
+      "sha256_origem": "501a8d560aa182e25b9490607f51e0a339ae262ce4bdd70af0169bd0060f01bb",
+      "sha256_destino": "501a8d560aa182e25b9490607f51e0a339ae262ce4bdd70af0169bd0060f01bb",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (5).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (5).jpeg",
+      "bytes": 248612,
+      "sha256_origem": "ebc51b4f255c9bb6ce4d1af736da0d43e1404e525511b7f8085444e1e0630de2",
+      "sha256_destino": "ebc51b4f255c9bb6ce4d1af736da0d43e1404e525511b7f8085444e1e0630de2",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (6).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (6).jpeg",
+      "bytes": 196128,
+      "sha256_origem": "7e184a03d6483892624795bbbb6112761fdcba009d5140781cec0e7ae9333630",
+      "sha256_destino": "7e184a03d6483892624795bbbb6112761fdcba009d5140781cec0e7ae9333630",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (7).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (7).jpeg",
+      "bytes": 110389,
+      "sha256_origem": "d871572155c796e02effaca46ca09375295f5874f5b880b3b67450ad02b9b7ff",
+      "sha256_destino": "d871572155c796e02effaca46ca09375295f5874f5b880b3b67450ad02b9b7ff",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (8).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (8).jpeg",
+      "bytes": 118857,
+      "sha256_origem": "4d54b2ac61ddf6db4407f1314c2ee715d53b91f1f618039b8dcdb3e1953205ee",
+      "sha256_destino": "4d54b2ac61ddf6db4407f1314c2ee715d53b91f1f618039b8dcdb3e1953205ee",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (9).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (9).jpeg",
+      "bytes": 96870,
+      "sha256_origem": "b4e453554d79eb9b204d6c5952b0b97e5af4ef8dd5e891507994843c5bf3904f",
+      "sha256_destino": "b4e453554d79eb9b204d6c5952b0b97e5af4ef8dd5e891507994843c5bf3904f",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59.jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59.jpeg",
+      "bytes": 178715,
+      "sha256_origem": "25225af8c2d1f97ba4f160bfc4bf9ae39386f656aacf344b3a73f7c87aa47b75",
+      "sha256_destino": "25225af8c2d1f97ba4f160bfc4bf9ae39386f656aacf344b3a73f7c87aa47b75",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.15.00 (1).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.15.00 (1).jpeg",
+      "bytes": 111885,
+      "sha256_origem": "c65eeeea78598163b340fc17e5c25bb82fd227bd4ed7f27076bd87061d34ec6d",
+      "sha256_destino": "c65eeeea78598163b340fc17e5c25bb82fd227bd4ed7f27076bd87061d34ec6d",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.15.00 (2).jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.15.00 (2).jpeg",
+      "bytes": 95300,
+      "sha256_origem": "48eaec176ff95ff5891beada405667dcfea0292622a068ad0df128a70ee3acdf",
+      "sha256_destino": "48eaec176ff95ff5891beada405667dcfea0292622a068ad0df128a70ee3acdf",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/fotos/WhatsApp Image 2026-10-21 at 19.15.00.jpeg",
+      "destino": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.15.00.jpeg",
+      "bytes": 101749,
+      "sha256_origem": "e3bd1b6b3714fdfe7308a05582301cdcac3838c54e99228732f20bc996754be5",
+      "sha256_destino": "e3bd1b6b3714fdfe7308a05582301cdcac3838c54e99228732f20bc996754be5",
+      "acao": "já existente; idêntico"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/dossie/contato_37_fotos.jpg",
+      "destino": "evidencias/dossie/contato_37_fotos.jpg",
+      "bytes": 1047901,
+      "sha256_origem": "2c21c22fa50ec731a5645d443644a64ef26c25e7c1f7c57646aad04c6438c98b",
+      "sha256_destino": "2c21c22fa50ec731a5645d443644a64ef26c25e7c1f7c57646aad04c6438c98b",
+      "acao": "copiado"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/dossie/dossie_tecnico_inicial.md",
+      "destino": "evidencias/dossie/dossie_tecnico_inicial.md",
+      "bytes": 6931,
+      "sha256_origem": "3ffca5d601bb7b5511c09f323c50f64f614561c8365d820e7a4c44a732740667",
+      "sha256_destino": "3ffca5d601bb7b5511c09f323c50f64f614561c8365d820e7a4c44a732740667",
+      "acao": "copiado"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/dossie/placa_principal_anotada.png",
+      "destino": "evidencias/dossie/placa_principal_anotada.png",
+      "bytes": 2029563,
+      "sha256_origem": "6aa979ba3c2e3e2b8b50601bdc06d77c8e8c2da09cddcd6130c714dd7bf5bfee",
+      "sha256_destino": "6aa979ba3c2e3e2b8b50601bdc06d77c8e8c2da09cddcd6130c714dd7bf5bfee",
+      "acao": "copiado"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/dossie/recorte_camera_marca.png",
+      "destino": "evidencias/dossie/recorte_camera_marca.png",
+      "bytes": 167250,
+      "sha256_origem": "5b09ceb8fe8f66d5a89a44e946540dce94509adffceab9e2e26a199483220069",
+      "sha256_destino": "5b09ceb8fe8f66d5a89a44e946540dce94509adffceab9e2e26a199483220069",
+      "acao": "copiado"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/dossie/recorte_fios_credito_premio.png",
+      "destino": "evidencias/dossie/recorte_fios_credito_premio.png",
+      "bytes": 1348121,
+      "sha256_origem": "68f45d78013414ca815b56178e2112c472b0154da265e1642db64a7db22a2a9b",
+      "sha256_destino": "68f45d78013414ca815b56178e2112c472b0154da265e1642db64a7db22a2a9b",
+      "acao": "copiado"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/dossie/recorte_fonte.png",
+      "destino": "evidencias/dossie/recorte_fonte.png",
+      "bytes": 1947334,
+      "sha256_origem": "739c34cebc660b4dde26308781e22173e63e06aea8b1a13aadaaccb96091a441",
+      "sha256_destino": "739c34cebc660b4dde26308781e22173e63e06aea8b1a13aadaaccb96091a441",
+      "acao": "copiado"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/dossie/recorte_placa_conector_esquerda.png",
+      "destino": "evidencias/dossie/recorte_placa_conector_esquerda.png",
+      "bytes": 283864,
+      "sha256_origem": "671951b6e6840637f5d6a8a1c3353a23f20929c4c7dd53bb71aef05f3ab0d7e9",
+      "sha256_destino": "671951b6e6840637f5d6a8a1c3353a23f20929c4c7dd53bb71aef05f3ab0d7e9",
+      "acao": "copiado"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/dossie/recorte_placa_fina.png",
+      "destino": "evidencias/dossie/recorte_placa_fina.png",
+      "bytes": 2297517,
+      "sha256_origem": "96bd7fc44fa21e53a3be0ea5655ee9ef788ea0dbcff28f32f01ed829f41db1b1",
+      "sha256_destino": "96bd7fc44fa21e53a3be0ea5655ee9ef788ea0dbcff28f32f01ed829f41db1b1",
+      "acao": "copiado"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/dossie/recorte_placa_mcu.png",
+      "destino": "evidencias/dossie/recorte_placa_mcu.png",
+      "bytes": 602816,
+      "sha256_origem": "c220387d1a873a1cbd97c775b6095af6fe299e593d37439d6b47e33d994ecc0c",
+      "sha256_destino": "c220387d1a873a1cbd97c775b6095af6fe299e593d37439d6b47e33d994ecc0c",
+      "acao": "copiado"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/dossie/recorte_placa_serial.png",
+      "destino": "evidencias/dossie/recorte_placa_serial.png",
+      "bytes": 450363,
+      "sha256_origem": "bc12a568c584ff0b7a92d1d3633dde7596a1c8aa52537e4239f094308b436ec3",
+      "sha256_destino": "bc12a568c584ff0b7a92d1d3633dde7596a1c8aa52537e4239f094308b436ec3",
+      "acao": "copiado"
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex/evidencias/dossie/recorte_placa_topo.png",
+      "destino": "evidencias/dossie/recorte_placa_topo.png",
+      "bytes": 1917951,
+      "sha256_origem": "7ddc874be77a886aee91ebd028298c392668cf85a12d9164e6f355e3f5f81e43",
+      "sha256_destino": "7ddc874be77a886aee91ebd028298c392668cf85a12d9164e6f355e3f5f81e43",
+      "acao": "copiado"
+    }
+  ],
+  "inspecao_visual": {
+    "fotos_abertas_individualmente": 37,
+    "falhas_abertura": [],
+    "ferramenta": "view_image",
+    "ordem": "lexicográfica de nomes; coluna ordem_inspecao no CSV",
+    "sha256_unicos": 37
+  },
+  "zips": [
+    {
+      "origem": "/Users/ti/Downloads/Arquivo.zip",
+      "sha256": "641f40a386f3f400bb074c58fae6de5962f8110d97710226d5da44a05652f19d",
+      "fotos_identicas": 37
+    },
+    {
+      "origem": "/Users/ti/Downloads/Pacote_Completo_Maquina_Pelucia_Codex.zip",
+      "sha256": "8e64549ade8d073a33b27d08f0ebb3c43c08beabe9693ef28e6fff6bcd9ded8b",
+      "fotos_identicas": 37
+    }
+  ],
+  "pacote_completo_verificado": {
+    "arquivos_uteis_zip_pasta_projeto": 51,
+    "manifesto_recebido_no_projeto": "evidencias/dossie/manifest_fotos-recebido.csv"
+  },
+  "originais_adicionais_em_downloads": [
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.51 (1).jpeg",
+      "sha256": "8a03ea61010f1eaa26e0dd063b101dc910b6a4e089e1ff05f8386d54af081eec"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.51.jpeg",
+      "sha256": "03dbdad476796f7c2b0e6a939d7c13d658ebf1c16fa02da69b0315584184edcd"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.52 (1).jpeg",
+      "sha256": "c598d91cf811efc274532226e58c57a309d5f13cb7cb402b84f552cc4d5d61db"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.52 (2).jpeg",
+      "sha256": "e0ef41a4ed34c4344b7b56db195b000070d7af9192dc77bd2fcf28df83ca9256"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.52 (3).jpeg",
+      "sha256": "0a51acac3c323a17effd7ca0c17646dd0b22559b8c14afd7bb57510d2eb65069"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.52.jpeg",
+      "sha256": "749f88cf9fb4008c69c231c6e96485af6fdb03ad1f3de5b079e0ea28983e1e24"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.53 (1).jpeg",
+      "sha256": "b04cc2e4916d4f33880b0a322897068c048aaa6f39c1df22bdf3f62d7e192bb3"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.53 (2).jpeg",
+      "sha256": "18559b0f36617c7317a17ece2315a82899d9b038390fe5f6ccb229900f36e5fa"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.53 (3).jpeg",
+      "sha256": "0f3e57f521790b2c7aeba9971f8d9cfa0cd7561a9000eb847e13d0f313fbd0ce"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.53.jpeg",
+      "sha256": "c398703fd66265b6cfa9a9a1c2228df308c00bc35bbe616cf2d03bddcd2e2b09"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.58 (1).jpeg",
+      "sha256": "5f169cf09d2a9b142067b9fe55cf7075fbc59b6e1bdd44655a8e6fa1761640c2"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.58 (2).jpeg",
+      "sha256": "f17946500e6e477003eecc9b3d8381cce660fcec371e643e666ec5f84ffa200b"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.58.jpeg",
+      "sha256": "cbf06f7d06433d36457fcf09f1c3be1f7c26203640a324f7c8ddc1c4ff169343"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (1).jpeg",
+      "sha256": "c0be25aa7821db0e5dc6f1a52236825b769dbf3bd8f25d0a61201ab1cbb409ac"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (10).jpeg",
+      "sha256": "b3fef297ad8af603918394944c066ea3cd6c018dce7c9135394e3fd8644bd876"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (11).jpeg",
+      "sha256": "780421ff7b024ac85c7fa0c8d141eea9149c9c039129a637b5e0faf7897d7b7b"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (12).jpeg",
+      "sha256": "382d385978dbd82e32214d4ada6ae6c38a2dad445ad24f2dac19571c40ad990a"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (13).jpeg",
+      "sha256": "b493721ab331071bdbbe0f71dc0c284f5d9da9b0db7afd2efa0d737db608395f"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (14).jpeg",
+      "sha256": "b8c3c68c7eb49ac2c0a6be86dfd99f97d080849964e8114e9c333258e197ea46"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (15).jpeg",
+      "sha256": "4641a080ae8a928e561d7249453815a49414d0fd60a495fbca59acd9506b1a7f"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (16).jpeg",
+      "sha256": "fac3aa90601dd47e145ad807771fe8cd2bf11f8af90784bc49bc0ac658553c7a"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (17).jpeg",
+      "sha256": "c0931947fada4dfd12fc2500f70d3b7e7b4102ec07bec0a5a4406c85999eac69"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (18).jpeg",
+      "sha256": "713042e89d41d369902b504868ddabf05a6c00a3e09fc8ac6de33427e59d9580"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (19).jpeg",
+      "sha256": "9f742c41c7c1271449494cdfcd541f8e49cf97073a9451eee744101d8dd59e32"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (2).jpeg",
+      "sha256": "3bfd716ac45407bca9033e5a48354414406ec4e72312f56bc9de34743a7024bf"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (20).jpeg",
+      "sha256": "c0528d286fed2323b55cbaad95c1275f7cdd77b3284ab76d74a8c2e12b193be1"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (3).jpeg",
+      "sha256": "e7f812aa11912e212e073266f4bed2f37ee57ba83b3bd834bc506c4cba3a81eb"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (4).jpeg",
+      "sha256": "501a8d560aa182e25b9490607f51e0a339ae262ce4bdd70af0169bd0060f01bb"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (5).jpeg",
+      "sha256": "ebc51b4f255c9bb6ce4d1af736da0d43e1404e525511b7f8085444e1e0630de2"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (6).jpeg",
+      "sha256": "7e184a03d6483892624795bbbb6112761fdcba009d5140781cec0e7ae9333630"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (7).jpeg",
+      "sha256": "d871572155c796e02effaca46ca09375295f5874f5b880b3b67450ad02b9b7ff"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (8).jpeg",
+      "sha256": "4d54b2ac61ddf6db4407f1314c2ee715d53b91f1f618039b8dcdb3e1953205ee"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (9).jpeg",
+      "sha256": "b4e453554d79eb9b204d6c5952b0b97e5af4ef8dd5e891507994843c5bf3904f"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59.jpeg",
+      "sha256": "25225af8c2d1f97ba4f160bfc4bf9ae39386f656aacf344b3a73f7c87aa47b75"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.15.00 (1).jpeg",
+      "sha256": "c65eeeea78598163b340fc17e5c25bb82fd227bd4ed7f27076bd87061d34ec6d"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.15.00 (2).jpeg",
+      "sha256": "48eaec176ff95ff5891beada405667dcfea0292622a068ad0df128a70ee3acdf"
+    },
+    {
+      "origem": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.15.00.jpeg",
+      "sha256": "e3bd1b6b3714fdfe7308a05582301cdcac3838c54e99228732f20bc996754be5"
+    }
+  ],
+  "documentos_anteriores_preservados_sha256": {
+    "README.md": "c0548c9e80b37b0316713f3c59992243b02f0d888c3caeac667b49d5492a4f1d",
+    "docs/01-inventario-fotografico.md": "f2f2af3115bb51646d10ce72017611dac482698bd40a5a300a1a90549acdf15f",
+    "docs/02-identificacao-hardware.md": "059d8fecd77d015d83668d022e7c863aaa513ed19e7880166a22c4a718359f34",
+    "docs/03-arquitetura-eletronica.md": "6e647ecc7e283087c62d9d22842bd4d99afa0d3860bd458c3529f8e509e314ce",
+    "docs/04-investigacao-controles.md": "34e2858cc01e6de8f05a7b5721821e7aa2f1aef596394847012dadc1b58604fb",
+    "docs/05-avaliacao-rea.md": "13eb880e4b765d40d2cb7152e71a0119c67240ba1d3f27e4d14e670840bacee9",
+    "docs/06-alternativas-integracao.md": "c74f81944d50dfd0859d7767241d95424df25dec984fd49c209028d4551cbc79",
+    "docs/07-arquitetura-controle-remoto.md": "098bca81a8efbc373d87fae9c11f037855acafd2dbc6f5616ddf9c1db0add8eb",
+    "docs/08-plano-validacao.md": "12c2ecae7f58caac0e126f9f65db87dc8b9b19928de4738682cd5373ca7f7096",
+    "docs/09-componentes-custos.md": "415e2561eb33de29dcc3110d1ef06b7e842bdd81585a59bf35b27e773826475a",
+    "docs/10-resumo-executivo.md": "00472e97366a5836f40f03814cb0022c885c28a3ee54c79138d6fc13640ed358"
+  },
+  "manifesto_atual_sha256": "992cdc7f7a9a004d89ea9f9c8c8bcf80e59bfac28256bca0032dacc2ac81718a",
+  "relatorios_novos_sha256": {
+    "docs/11-investigacao-focalizada.md": "1d0e80cf020566b0a8b68651b0009b8844228844282d7d5e785ea5a13a7dbfb4",
+    "docs/12-plano-prova-de-conceito.md": "6e2e24e691ea26cc6c6fca39a1985dca984688b2efd39f6e7665069a33a42f07"
+  }
+}

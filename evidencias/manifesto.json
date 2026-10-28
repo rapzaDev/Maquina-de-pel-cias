@@ -1,0 +1,335 @@
+[
+  {
+    "id": "F01",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.15.00 (2).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.15.00 (2).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "48eaec176ff95ff5891beada405667dcfea0292622a068ad0df128a70ee3acdf"
+  },
+  {
+    "id": "F02",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.15.00 (1).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.15.00 (1).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "c65eeeea78598163b340fc17e5c25bb82fd227bd4ed7f27076bd87061d34ec6d"
+  },
+  {
+    "id": "F03",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.15.00.jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.15.00.jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "e3bd1b6b3714fdfe7308a05582301cdcac3838c54e99228732f20bc996754be5"
+  },
+  {
+    "id": "F04",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (20).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (20).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "c0528d286fed2323b55cbaad95c1275f7cdd77b3284ab76d74a8c2e12b193be1"
+  },
+  {
+    "id": "F05",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (19).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (19).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "9f742c41c7c1271449494cdfcd541f8e49cf97073a9451eee744101d8dd59e32"
+  },
+  {
+    "id": "F06",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (18).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (18).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "713042e89d41d369902b504868ddabf05a6c00a3e09fc8ac6de33427e59d9580"
+  },
+  {
+    "id": "F07",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (17).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (17).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "c0931947fada4dfd12fc2500f70d3b7e7b4102ec07bec0a5a4406c85999eac69"
+  },
+  {
+    "id": "F08",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (16).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (16).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "fac3aa90601dd47e145ad807771fe8cd2bf11f8af90784bc49bc0ac658553c7a"
+  },
+  {
+    "id": "F09",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (15).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (15).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "4641a080ae8a928e561d7249453815a49414d0fd60a495fbca59acd9506b1a7f"
+  },
+  {
+    "id": "F10",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (14).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (14).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "b8c3c68c7eb49ac2c0a6be86dfd99f97d080849964e8114e9c333258e197ea46"
+  },
+  {
+    "id": "F11",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (13).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (13).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "b493721ab331071bdbbe0f71dc0c284f5d9da9b0db7afd2efa0d737db608395f"
+  },
+  {
+    "id": "F12",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (12).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (12).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "382d385978dbd82e32214d4ada6ae6c38a2dad445ad24f2dac19571c40ad990a"
+  },
+  {
+    "id": "F13",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (11).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (11).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "780421ff7b024ac85c7fa0c8d141eea9149c9c039129a637b5e0faf7897d7b7b"
+  },
+  {
+    "id": "F14",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (10).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (10).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "b3fef297ad8af603918394944c066ea3cd6c018dce7c9135394e3fd8644bd876"
+  },
+  {
+    "id": "F15",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (9).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (9).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "b4e453554d79eb9b204d6c5952b0b97e5af4ef8dd5e891507994843c5bf3904f"
+  },
+  {
+    "id": "F16",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (8).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (8).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "4d54b2ac61ddf6db4407f1314c2ee715d53b91f1f618039b8dcdb3e1953205ee"
+  },
+  {
+    "id": "F17",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (7).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (7).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "d871572155c796e02effaca46ca09375295f5874f5b880b3b67450ad02b9b7ff"
+  },
+  {
+    "id": "F18",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (6).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (6).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "7e184a03d6483892624795bbbb6112761fdcba009d5140781cec0e7ae9333630"
+  },
+  {
+    "id": "F19",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (5).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (5).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "ebc51b4f255c9bb6ce4d1af736da0d43e1404e525511b7f8085444e1e0630de2"
+  },
+  {
+    "id": "F20",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (4).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (4).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "501a8d560aa182e25b9490607f51e0a339ae262ce4bdd70af0169bd0060f01bb"
+  },
+  {
+    "id": "F21",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (3).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (3).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "e7f812aa11912e212e073266f4bed2f37ee57ba83b3bd834bc506c4cba3a81eb"
+  },
+  {
+    "id": "F22",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (2).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (2).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "3bfd716ac45407bca9033e5a48354414406ec4e72312f56bc9de34743a7024bf"
+  },
+  {
+    "id": "F23",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59 (1).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59 (1).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "c0be25aa7821db0e5dc6f1a52236825b769dbf3bd8f25d0a61201ab1cbb409ac"
+  },
+  {
+    "id": "F24",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.59.jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.59.jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "25225af8c2d1f97ba4f160bfc4bf9ae39386f656aacf344b3a73f7c87aa47b75"
+  },
+  {
+    "id": "F25",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.58 (2).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.58 (2).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "f17946500e6e477003eecc9b3d8381cce660fcec371e643e666ec5f84ffa200b"
+  },
+  {
+    "id": "F26",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.58 (1).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.58 (1).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "5f169cf09d2a9b142067b9fe55cf7075fbc59b6e1bdd44655a8e6fa1761640c2"
+  },
+  {
+    "id": "F27",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.58.jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.58.jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "cbf06f7d06433d36457fcf09f1c3be1f7c26203640a324f7c8ddc1c4ff169343"
+  },
+  {
+    "id": "F28",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.53 (3).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.53 (3).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "0f3e57f521790b2c7aeba9971f8d9cfa0cd7561a9000eb847e13d0f313fbd0ce"
+  },
+  {
+    "id": "F29",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.53 (2).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.53 (2).jpeg",
+    "width": 1280,
+    "height": 960,
+    "format": "JPEG",
+    "sha256": "18559b0f36617c7317a17ece2315a82899d9b038390fe5f6ccb229900f36e5fa"
+  },
+  {
+    "id": "F30",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.53 (1).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.53 (1).jpeg",
+    "width": 1280,
+    "height": 960,
+    "format": "JPEG",
+    "sha256": "b04cc2e4916d4f33880b0a322897068c048aaa6f39c1df22bdf3f62d7e192bb3"
+  },
+  {
+    "id": "F31",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.53.jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.53.jpeg",
+    "width": 1280,
+    "height": 960,
+    "format": "JPEG",
+    "sha256": "c398703fd66265b6cfa9a9a1c2228df308c00bc35bbe616cf2d03bddcd2e2b09"
+  },
+  {
+    "id": "F32",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.52 (3).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.52 (3).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "0a51acac3c323a17effd7ca0c17646dd0b22559b8c14afd7bb57510d2eb65069"
+  },
+  {
+    "id": "F33",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.52 (2).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.52 (2).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "e0ef41a4ed34c4344b7b56db195b000070d7af9192dc77bd2fcf28df83ca9256"
+  },
+  {
+    "id": "F34",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.52 (1).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.52 (1).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "c598d91cf811efc274532226e58c57a309d5f13cb7cb402b84f552cc4d5d61db"
+  },
+  {
+    "id": "F35",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.52.jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.52.jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "749f88cf9fb4008c69c231c6e96485af6fdb03ad1f3de5b079e0ea28983e1e24"
+  },
+  {
+    "id": "F36",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.51 (1).jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.51 (1).jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "8a03ea61010f1eaa26e0dd063b101dc910b6a4e089e1ff05f8386d54af081eec"
+  },
+  {
+    "id": "F37",
+    "file": "evidencias/fotos/WhatsApp Image 2026-10-21 at 19.14.51.jpeg",
+    "source": "/Users/ti/Downloads/WhatsApp Image 2026-10-21 at 19.14.51.jpeg",
+    "width": 960,
+    "height": 1280,
+    "format": "JPEG",
+    "sha256": "03dbdad476796f7c2b0e6a939d7c13d658ebf1c16fa02da69b0315584184edcd"
+  }
+]
